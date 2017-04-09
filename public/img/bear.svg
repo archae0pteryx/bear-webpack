@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="525px" height="615px" viewBox="0 0 525 615" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="229.427148" cy="583.53895" rx="213.960149" ry="181.795081"></ellipse>
+        <ellipse id="path-2" cx="229.713574" cy="630.409755" rx="139.775841" ry="95.1717194"></ellipse>
+        <ellipse id="path-3" cx="227.995019" cy="605.334572" rx="64.732254" ry="36.4729943"></ellipse>
+        <ellipse id="path-4" cx="227.135741" cy="266.534649" rx="24.9190535" ry="24.7902383"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-251.000000, -100.000000)">
+            <g id="Group-2" transform="translate(284.000000, -69.000000)">
+                <ellipse id="Oval-8-Copy" stroke="#BDBDBD" stroke-width="4" cx="226.849315" cy="265.679813" rx="101.967621" ry="101.440515"></ellipse>
+                <ellipse id="Oval-8" stroke="#BDBDBD" stroke-width="4" cx="227.135741" cy="265.964758" rx="84.4956413" ry="84.058854"></ellipse>
+                <ellipse id="Oval-8-Copy-2" stroke="#BDBDBD" stroke-width="4" cx="227.135741" cy="265.964758" rx="63.8729763" ry="63.5427947"></ellipse>
+                <rect id="Rectangle" fill="#212121" transform="translate(226.791866, 133.408056) rotate(-45.000000) translate(-226.791866, -133.408056) " x="132.901619" y="40.0031608" width="187.780494" height="186.809791"></rect>
+                <rect id="Rectangle-Copy" fill="#212121" transform="translate(226.791866, 398.977046) rotate(-45.000000) translate(-226.791866, -398.977046) " x="132.901619" y="305.57215" width="187.780494" height="186.809791"></rect>
+                <ellipse id="Oval-5" fill="#616161" cx="103.113325" cy="439.496426" rx="103.113325" ry="102.580296"></ellipse>
+                <ellipse id="Oval-5-Copy" fill="#616161" cx="356.886675" cy="438.356645" rx="103.113325" ry="102.580296"></ellipse>
+                <ellipse id="Oval-6" fill="#BDBDBD" cx="103.113325" cy="438.356645" rx="59.003736" ry="58.6987251"></ellipse>
+                <ellipse id="Oval-6-Copy" fill="#BDBDBD" cx="358.60523" cy="437.216864" rx="59.003736" ry="58.6987251"></ellipse>
+                <ellipse id="Oval-Copy" fill="#FFFDFD" cx="232.447073" cy="586.65688" rx="208.447073" ry="177.65688"></ellipse>
+                <path d="M227,287.050708 L227,401.034514" id="Line" stroke="#BDBDBD" stroke-width="8" stroke-linecap="square"></path>
+                <g id="Oval">
+                    <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <ellipse stroke="#757575" stroke-width="13" cx="229.427148" cy="583.53895" rx="207.460149" ry="175.295081"></ellipse>
+                </g>
+                <ellipse id="Oval-2" fill="#424242" cx="145.504359" cy="524.410116" rx="17.758406" ry="17.6666066"></ellipse>
+                <ellipse id="Oval-2-Copy" fill="#424242" cx="310.485679" cy="525.549897" rx="17.758406" ry="17.6666066"></ellipse>
+                <g id="Oval-4">
+                    <use fill="#BDBDBD" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <ellipse stroke="#757575" stroke-width="17" cx="229.713574" cy="630.409755" rx="131.275841" ry="86.6717194"></ellipse>
+                </g>
+                <g id="Oval-3">
+                    <use fill="#25373D" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <ellipse stroke="#757575" stroke-width="6" cx="227.995019" cy="605.334572" rx="61.732254" ry="33.4729943"></ellipse>
+                </g>
+                <path d="M231.303116,645.919993 L231.303116,709.757909" id="Line" stroke="#757575" stroke-width="14" stroke-linecap="square"></path>
+                <g id="Oval-7">
+                    <use fill="#212121" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <ellipse stroke="#BDBDBD" stroke-width="7" cx="227.135741" cy="266.534649" rx="21.4190535" ry="21.2902383"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
