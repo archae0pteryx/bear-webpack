@@ -1,6 +1,6 @@
 {
-  "name": "webpack-base",
-  "version": "0.1.0",
+  "name": "bear-webpack",
+  "version": "0.1.7",
   "private": true,
   "dependencies": {
     "react": "^15.5.3",
