@@ -1,5 +1,4 @@
-### A bare bones webpack config for React inspired by [sturdynuts'](https://github.com/sturdynut/webpack-starter)
-
+# A webpack config for the gods...
 ```
 yarn install
 yarn start
